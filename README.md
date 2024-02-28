@@ -1,6 +1,8 @@
 # Contract-App
 Aplication to add and managment contracts 
-BAZA DANYCH
+
+**BAZA DANYCH**
+
 TABELA UŻYTKOWNIKÓW
 Id: int auto increment
 Username: string
@@ -37,11 +39,14 @@ Company name: string
 Company responsible persone fname: string
 Company responsible persone lname: string
 Company responsible persone ename: string
-BACKEND
+
+**BACKEND**
 CRUD.
 Obsługa zapisu plików z dokumentami.
 Obsługa zapisu awatarów.
-FRONTEND
+
+
+**FRONTEND**
 Logowanie/resetowanie hasła
 Rejestracja
 Filtrowanie kontraktów
