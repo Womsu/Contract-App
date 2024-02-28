@@ -6,7 +6,7 @@ Aplication to add and managment contracts
 ### TABELA UŻYTKOWNIKÓW
 Id: int auto increment
 
-Username: strings
+Username: string
 
 First Name: string
 
